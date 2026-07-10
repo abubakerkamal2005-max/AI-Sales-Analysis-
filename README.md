@@ -1,4 +1,4 @@
-# AI-Sales-Analysis-
+# AI-Sales-Analysis
 Interactive Dashboard for analyzing sales data 
 # 📊 Dashboard Generator .3 - Instant Excel Analytics
 
